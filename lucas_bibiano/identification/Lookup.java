@@ -1,4 +1,4 @@
-package lucas.bibiano.identification;
+package lucas_bibiano.identification;
 
 public class Lookup {
     
